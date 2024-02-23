@@ -1,4 +1,8 @@
-# Lines of code
+# Loss of accuracy leading to compromised gameplay mechanics
+
+Loss of accuracy in points calculation leads to behavior inconsistent with documentation that compromises an aspect of the gameplay mechanics allowing players to potentially gain an unfair advantage.
+
+## Lines of code
 
 https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L528
 https://github.com/code-423n4/2024-02-ai-arena/blob/cd1a0e6d1b40168657d1aaee8223dc050e15f8cc/src/RankedBattle.sol#L445
